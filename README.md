@@ -1,16 +1,14 @@
 ### Hi there 👋
 
-<!--
-**souzgab/souzgab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My name is Gabriel Souza,
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on Safra Bank
+- 🌱 I’m currently learning React or Angular
+- 👯 I’m looking to collaborate on any hackathon or project that contains tech inside.
+- 🤔 I’m looking for help with how to become a full stack human xD.
+- 💬 Ask me about Web develop or Sci-fi Movies.
+- 📫 How to reach me: Please contact me on <a href="https://www.linkedin.com/in/gsarruda/">Linkedin</a>
+- 😄 Pronouns: Souza
+- ⚡ Fun fact: maybe im fun and i love Charlie Brown Jr.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+"Neste mundo não existe verdade universal. Uma mesma verdade pode apresentar diferentes fisionomias. Tudo depende das decifrações feitas através de nossos prismas intelectuais, filosóficos, culturais e religiosos."
