@@ -13,9 +13,6 @@
 
 "Neste mundo não existe verdade universal. Uma mesma verdade pode apresentar diferentes fisionomias. Tudo depende das decifrações feitas através de nossos prismas intelectuais, filosóficos, culturais e religiosos."
 
-<details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="souzgab's GitHub Stats" src="https://github-readme-stats.souzgab.vercel.app/api?username=souzgab&show_icons=true&hide_border=true" />
-
-</details>
+  <img align="left" alt="souzgab's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=souzgab&show_icons=true&hide_border=true" />
