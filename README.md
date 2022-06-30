@@ -2,8 +2,7 @@
 
 ### My name is Gabriel Souza,
 
-- 🔭 I’m currently working on Safra Bank
-- 🌱 I’m currently learning React or Angular
+- 🔭 I’m currently working on SaudeId
 - 👯 I’m looking to collaborate on any hackathon or project that contains tech inside.
 - 💬 Ask me about Web develop or Sci-fi Movies.
 - 📫 How to reach me: Please contact me on <a href="https://www.linkedin.com/in/gsarruda/">Linkedin</a>
